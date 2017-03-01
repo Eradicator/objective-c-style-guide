@@ -115,7 +115,7 @@ Use `// MARK:` to categorize methods in functional groupings and protocol/delega
 
 ## Spacing
 
-* Indent using 2 spaces (this conserves space in print and makes line wrapping less likely). Be sure to set this preference in Xcode.
+* Indent using 4 spaces (this conserves space in print and makes line wrapping less likely). Be sure to set this preference in Xcode.
 * Method braces always open on next line to visually distinguish method body.
 * Other braces (`if`/`else`/`switch`/`while` etc.) always open on the same line as the statement but close on a new line.
 * Never add an extra whitespace or break within a line.
